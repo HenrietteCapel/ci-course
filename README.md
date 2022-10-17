@@ -1,6 +1,7 @@
 [![Run unit tests](https://github.com/HenrietteCapel/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/HenrietteCapel/ci-course/actions/workflows/unit-tests.yml)
 [![Run on multiple OS](https://github.com/HenrietteCapel/ci-course/actions/workflows/os-tests.yml/badge.svg)](https://github.com/HenrietteCapel/ci-course/actions/workflows/os-tests.yml)
 [![codecov](https://codecov.io/gh/HenrietteCapel/ci-course/branch/main/graph/badge.svg?token=HOKIZBQX92)](https://codecov.io/gh/HenrietteCapel/ci-course)
+[![BCH compliance](https://bettercodehub.com/edge/badge/HenrietteCapel/ci-course?branch=main)](https://bettercodehub.com/)
 
 # OxRSE Continuous Integration course
 
